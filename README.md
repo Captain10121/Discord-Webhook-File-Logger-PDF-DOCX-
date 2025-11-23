@@ -23,7 +23,7 @@ Describe the main idea and purpose.
 
 # Installation
 1. Clone the repository
-2. Download the requirements.txt
+2. Type "pip install requests" in Command Prompt
 3. Find the logger.py
 4. Open the File Using any IDE or Notepad
 5. Replace the WEBHOOK_URL = "LINK TO YOUR DISCORD WEBHOOK!!"
