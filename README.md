@@ -15,7 +15,6 @@ This python file sends all the PDFs and Docx files to a discord webhook.
 
 # Overview
 Finds every PDFs and .docx files in a windows computer system and sends them all to a discord webhook. 
-Describe the main idea and purpose.
 
 # Features
 - Fully Customizable Script, Easy to Read.
