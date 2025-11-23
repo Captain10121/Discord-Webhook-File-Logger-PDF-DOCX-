@@ -1,4 +1,4 @@
-# Disclaimer
+# Disclaimer ⚠️
 This project is provided strictly for educational and research purposes only.
 
 The author does not condone, encourage, or support any unethical, illegal, or harmful activity.  
